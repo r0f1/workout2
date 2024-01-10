@@ -5,7 +5,7 @@
     * [Hip Thrusts](https://www.youtube.com/watch?v=EF7jXP17DPE) (Glutes, Hamstrings)
   * Group 2
     * [Bench Press](https://www.youtube.com/watch?v=YQ2s_Y7g5Qk) (Chest, Triceps)
-    * [Seated Cable Row](https://www.youtube.com/watch?v=UCXxvVItLoM) (Lats)
+    * [Seated Cable Row](https://www.youtube.com/watch?v=UCXxvVItLoM) (Lats, Biceps)
   * Group 3
     * [DB Overhead Press](https://www.youtube.com/watch?v=Raemd3qWgJc) (Delts)
     * [Lat Pulldown](https://www.youtube.com/watch?v=EUIri47Epcg) (Lats)
